@@ -22,5 +22,6 @@
     <p>From Source </p>
     <p>Y sin X</p>
     
-  
-  
+<h3> Cotainer </h3>
+    <p> Hacer un container para agilizar el deploy </p>
+    <p> O mejorar script de instalacion >/p>
