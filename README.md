@@ -3,6 +3,12 @@
 
 <h2>La idea es hacer un pequeño reverse del Script de instalación de BlackArch </h2>
 
+<h1> **Objetivos** </h1>
+<h2> ** Step 1: Set up client.** </h2>
+*Por qué primero el client*:
+ Porque es más fácil.
+
+
 <h3>Implemetarle estos cambios. </h3>
     <p>Sin embargo aun esta incompleto. </p>
     <p>No me da un booteable system. </p>
@@ -14,12 +20,13 @@
     <p> Encrypted filesystem to store keys?? (ssh, pgp, etc...) </p>
     <p> Linux Hardened Kernel. </p>
 
-<h3>Futuro: </h3>
+<h3> - Futuro: </h3>
     <p>Pasar a un sistema sin SystemD</p>
+    - Esqueletarlo para un sistema sin systemd Gentoo, Void, LFS (Superficie de ataque como pid1 insana)
     <p>From Source </p>
     <p>Y sin X</p>
     <p>Sin sudo </p>
     
-<h3> Cotainer </h3>
+<h3> - Cotainer </h3>
     <p> Hacer un container para agilizar el deploy </p>
     <p> O mejorar script de instalacion </p>
