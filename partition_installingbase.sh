@@ -1,7 +1,6 @@
-#This is not intended to be an script
-#As i see it, the fun of Arch is to have the system on your way
-#Scripts would make it on my way. 
-#And my actual knowledge doens't allow me to create an script of that size btw.
+#This is not intended to be used as an script yet
+#And my actual knowledge doens't allow me to create an script of that size yet, btw.
+# It's just an skeleton
 #There 's a loooot more of tweaks that still need to be doing
 #It's not very clever to let people know some points here, as cipher, filesystems, but whatever, 
 #i'm not very clever
