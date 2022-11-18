@@ -1,4 +1,5 @@
-<h1># BlackArchClient </h1>
+<h1> Client for the C2C </h1>
+<h2># BlackArchClient </h2>
 
 <h2>La idea es hacer un pequeño reverse del Script de instalación de BlackArch </h2>
 
