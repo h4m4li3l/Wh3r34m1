@@ -1,8 +1,8 @@
-# BlackArchClient
+<h># BlackArchClient </h>
 
-La idea es hacer un pequeño reverse del Script de instalación de BlackArch
+<p>La idea es hacer un pequeño reverse del Script de instalación de BlackArch </p>
 
-Implemetarle esto.
+<p>Implemetarle esto. </p>
     Sin embargo aun esta incompleto.
     Y no me da un booteable system por
     Estoy fallando al implementar el boot desde un sistema encryptado
