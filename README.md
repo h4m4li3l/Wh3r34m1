@@ -2,24 +2,25 @@
 
 <h2>La idea es hacer un pequeño reverse del Script de instalación de BlackArch </h2>
 
-<h1>Implemetarle estos cambios. Y:. </h1>
+<h3>Implemetarle estos cambios. Y:. </h3>
 <ul>
-    Sin embargo aun esta incompleto.
-    No me da un booteable system.
-    Estoy fallando al implementar el boot desde un sistema encryptado
-    Ya no quiero hacer la GRUB partition, por razones de seguredad.
+    <p>Sin embargo aun esta incompleto. </p>
+    <p>No me da un booteable system. </p>
+    <p>Estoy fallando al implementar el boot desde un sistema encryptado. </p>
+    <p>Ya no quiero hacer la GRUB partition, por razones de seguredad. </p>
 </ul>
     
-<h2>Hacer la ISO solo de i3 por ahora, que es el que uso.</h3>
-Encrypted system
-Linux Hardened Kernel
+<h2> Hacer la ISO solo de i3 por ahora, que es el que uso.</h2>
+<p> Encrypted system. </p>
+<p> Encrypted filesystem to store keys?? (ssh, pgp, etc...) </p>
+<p> Linux Hardened Kernel. </p>
 
 
 
-Futuro:
-    Pasar a un sistema sin SystemD
-    From Source
-    Y sin X
+<h3>Futuro: </h3>
+    <p>Pasar a un sistema sin SystemD</p>
+    <p>From Source </p>
+    <p>Y sin X</p>
     
   
   
