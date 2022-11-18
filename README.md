@@ -1,7 +1,9 @@
 <h1> Client for the C2C </h1>
 <h2># BlackArchClient </h2>
 
-<h2>La idea es hacer un pequeño reverse del Script de instalación de BlackArch </h2>
+<h2>La idea es hacer un pequeño reverse del Script de instalación de BlackArch
+. Implemetarle estos cambios. para automatizar la instalaci
+</h2>
 
 <h1> **Objetivos** </h1>
 <h2> ** Step 1: Set up client.** </h2>
@@ -9,7 +11,7 @@
  Porque es más fácil.
 
 
-<h3>Implemetarle estos cambios. </h3>
+<h3></h3>
     <p>Sin embargo aun esta incompleto. </p>
     <p>No me da un booteable system. </p>
     <p>Estoy fallando al implementar el boot desde un sistema encryptado. </p>
