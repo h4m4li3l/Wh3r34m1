@@ -17,7 +17,8 @@
     <p>Pasar a un sistema sin SystemD</p>
     <p>From Source </p>
     <p>Y sin X</p>
+    <p>Sin sudo </p>
     
 <h3> Cotainer </h3>
     <p> Hacer un container para agilizar el deploy </p>
-    <p> O mejorar script de instalacion >/p>
+    <p> O mejorar script de instalacion </p>
