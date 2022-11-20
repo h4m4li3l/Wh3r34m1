@@ -4,8 +4,8 @@
 
 * La idea es tener un pen test distro hecho por y para uno, highly customized.
 * Arrancaremos con Arch como prototipo.
-* Focando en proceso de aprendizaje para a posteriori estar más cómodo 
-  * en contacto con algo compilado local como gentoo o LFS, y/o algún BSD incluso.
+* Focando en proceso de aprendizaje para posteriori
+  * compilado local custom kernel con gentoo o LFS, y/o algún BSD incluso.
 
 
 ### __Objetivos__
